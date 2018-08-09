@@ -1,0 +1,17 @@
+Data
+
+To help Paolo in his search we will need to use following data:
+
+- The neighborhoods of Zürich, Switzerland from Wikipedia: https://en.wikipedia.org/wiki/Subdivisions_of_Z%C3%BCrich
+
+- The coordinates (latitude, longitude) ot these neighborhoods and of Zürich from GoogleAPIs
+
+- From Foursquare we will need following venues data:
+  - the restaurant venues of the neighborhoods (and specifically the pizzerias)
+  - the offices venues of the neighborhoods
+  - the shops venues of the neighborhoods
+  - the schools venues of the neighborhoods
+  - the night activities venues of the neighborhoods
+
+We will then leverage the data in order to determine which neighborhood has the most officies, shops, schools and night activities
+with the less pizzerias. This would be a good neighborhood for Paolo in order to open his restaurant.

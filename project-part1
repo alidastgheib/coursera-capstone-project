@@ -1,22 +1,10 @@
 Introduction
 
-Paolo wants to open his pizzeria in some neighborhood of Zürich Switzerland. But he wants to ensure that his restaurant will be 
-near some offices or schools in order to ensure he will have enough customers. Having some shops or places for night activities would
-also be great. 
-He also wish that they won't be too many other pizzerias near to his one.
-
+Paolo wants to open his pizzeria in some neighborhood of Zürich Switzerland.
+He asked us to help him to find the best place for it.
 
 Business Problem 
 
-To help Paolo in his search we will need to:
-- get the neighborhoods of Zürich, Switzerland
-
-- get the restaurant venues of the neighborhoods (and specifically the pizzerias)
-
-- get the offices venues of the neighborhoods
-- get the shops venues of the neighborhoods
-- get the schools venues of the neighborhoods
-- get the night activities venues of the neighborhoods
-
-We will then leverage the data in order to determine which neighborhood has the most officies, shops, schools and night activities
-with the less pizzerias. This would be a good neighborhood for Paolo in order to open his restaurant.
+In order to open Paolo's pizzeria, we will need to leverage some information about the neighborhoods in Zürich.
+We must ensure that there will be enough customers for the pizzeria and also that there are not already too many other pizzerias in the
+same location.
